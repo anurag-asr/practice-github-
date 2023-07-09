@@ -8,6 +8,8 @@ const onFinishFailed = (errorInfo) => {
   console.log('Failed:', errorInfo);
   console.log('Failed:', errorInfo);
   console.log('Failed:', errorInfo);
+  console.log('Failed:', errorInfo);
+
 
 };
 function App() {
